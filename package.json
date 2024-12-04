@@ -9,7 +9,7 @@
     "test": "node_modules/nodeunit/bin/nodeunit"
   },
   "devDependencies": {
-    "nodeunit": "^0.11.1",
+    "nodeunit": "^0.10.2",
     "xmldom": "^0.1.27",
     "xpath": "^0.0.24"
   },
